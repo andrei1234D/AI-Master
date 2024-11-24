@@ -4,7 +4,7 @@ import XRPPredictionChart from './aiPredict.tsx';
 import './app.css';
 function App() {
   return (
-    <div className="background">
+    <div>
       <AIAdoptionChart></AIAdoptionChart>
       <DualAxisChart></DualAxisChart>
       <XRPPredictionChart></XRPPredictionChart>
