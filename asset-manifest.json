@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AI-Master/static/css/main.7ef493d1.css",
+    "main.js": "/AI-Master/static/js/main.15880ae0.js",
+    "static/js/453.874444af.chunk.js": "/AI-Master/static/js/453.874444af.chunk.js",
+    "index.html": "/AI-Master/index.html",
+    "main.7ef493d1.css.map": "/AI-Master/static/css/main.7ef493d1.css.map",
+    "main.15880ae0.js.map": "/AI-Master/static/js/main.15880ae0.js.map",
+    "453.874444af.chunk.js.map": "/AI-Master/static/js/453.874444af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef493d1.css",
+    "static/js/main.15880ae0.js"
+  ]
+}
